@@ -1,0 +1,35 @@
+{
+  "itemGroup.nitros_twinblades": "Nitro's Twinblades",
+
+  "item.nitros_twinblades.wooden_twinblade": "Wooden Twinblade",
+  "item.nitros_twinblades.stone_twinblade": "Stone Twinblade",
+  "item.nitros_twinblades.iron_twinblade": "Iron Twinblade",
+  "item.nitros_twinblades.golden_twinblade": "Golden Twinblade",
+  "item.nitros_twinblades.diamond_twinblade": "Diamond Twinblade",
+  "item.nitros_twinblades.netherite_twinblade": "Netherite Twinblade",
+
+  "Group 2": "Modded",
+
+
+  "item.nitros_twinblades.infernal_twinblade": "Infernal Twinblade",
+  "tooltip.nitros_twinblades.infernal_sword": "Burns bright like the flames of the Nether",
+
+  "item.nitros_twinblades.frigid_twinblade": "Frigid Twinblade",
+  "tooltip.nitros_twinblades.frigid_sword": "Colder than the highest mountaintops",
+
+  "item.nitros_twinblades.venomous_twinblade": "Venomous Twinblade",
+  "tooltip.nitros_twinblades.venomous_sword": "More toxic then the deadliest of poisons",
+
+  "item.nitros_twinblades.lightning_twinblade": "Lightning Twinblade",
+  "tooltip.nitros_twinblades.lightning_sword": "Smite your foes with the power of the heavens",
+
+  "item.nitros_twinblades.void_master_twinblade": "Void Master's Twinblade",
+  "tooltip.nitros_twinblades.void_master_sword": "The power of the Void Master",
+
+  "item.nitros_twinblades.harbinger_twinblade": "Harbinger's Twinblade",
+  "tooltip.nitros_twinblades.harbinger_sword": "The power of the Harbinger",
+
+  "item.nitros_twinblades.crab_master_twinblade": "Crab Master's Twinblade",
+  "tooltip.nitros_twinblades.crab_master_sword": "The power of the Crab Master",
+  "Crab Master Twinblade Death Message": "Ender Master's Twinblade"
+}

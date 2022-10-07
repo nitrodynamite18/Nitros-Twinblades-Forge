@@ -1,0 +1,27 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "All rights reserved"
+
+[[mods]]
+    modId = "nitros_twinblades"
+    version = "${file.jarVersion}"
+    displayName = "Nitro's Twinblades"
+    #displayURL = "https://change.me.to.your.mods.homepage.example.invalid/" #optional
+    #logoFile = "nitros_twinblades.png"
+    authors = "nitro_dynamite18"
+    description = ''' '''
+
+
+[[dependencies.nitros_twinblades]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.19.2,1.20)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.nitros_twinblades]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[43,)"
+    ordering = "NONE"
+    side = "BOTH"

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "I",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond_sword"
+        },
+        "I": {
+            "tag": "forge:items/rods/wooden"
+        }
+    },
+    "result": {
+        "item": "nitros_twinblades:diamond_twinblade",
+        "count": 1
+    }
+}

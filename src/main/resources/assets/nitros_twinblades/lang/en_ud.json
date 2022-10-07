@@ -1,0 +1,29 @@
+{
+  "itemGroup.nitros_twinblades": "sǝpɐꞁquᴉʍ⟘ s,oɹʇᴉN",
+
+  "item.nitros_twinblades.wooden_twinblade": "ǝpɐꞁquᴉʍ⟘ uǝpooM",
+  "item.nitros_twinblades.stone_twinblade": "ǝpɐꞁquᴉʍ⟘ ǝuoʇS",
+  "item.nitros_twinblades.iron_twinblade": "ǝpɐꞁquᴉʍ⟘ uoɹI",
+  "item.nitros_twinblades.golden_twinblade": "ǝpɐꞁquᴉʍ⟘ uǝpꞁo⅁",
+  "item.nitros_twinblades.diamond_twinblade": "ǝpɐꞁquᴉʍ⟘ puoɯɐᴉᗡ",
+  "item.nitros_twinblades.netherite_twinblade": "ǝpɐꞁquᴉʍ⟘ ǝʇᴉɹǝɥʇǝN",
+
+  "Group 2": "Mekanism",
+
+
+  "item.nitros_twinblades.infernal_twinblade": "ǝpɐꞁquᴉʍ⟘ ꞁɐuɹǝɟuI",
+  "tooltip.nitros_twinblades.infernal_sword": "ɹǝɥʇǝN ǝɥʇ ɟo sǝɯɐꞁɟ ǝɥʇ ǝʞᴉꞁ ʇɥᵷᴉɹq suɹnᗺ",
+  "item.nitros_twinblades.frigid_twinblade": "ǝpɐꞁquᴉʍ⟘ pᴉᵷᴉɹℲ",
+  "tooltip.nitros_twinblades.frigid_sword": "sdoʇuᴉɐʇunoɯ ʇsǝɥᵷᴉɥ ǝɥʇ uɐɥʇ ɹǝpꞁoƆ",
+  "item.nitros_twinblades.venomous_twinblade": "ǝpɐꞁquᴉʍ⟘ snoɯouǝɅ",
+  "tooltip.nitros_twinblades.venomous_sword": "suosᴉod ɟo ʇsǝᴉꞁpɐǝp ǝɥʇ uǝɥʇ ɔᴉxoʇ ǝɹoW",
+  "item.nitros_twinblades.lightning_twinblade": "ǝpɐꞁquᴉʍ⟘ ᵷuᴉuʇɥᵷᴉꞀ",
+  "tooltip.nitros_twinblades.lightning_sword": "suǝʌɐǝɥ ǝɥʇ ɟo ɹǝʍod ǝɥʇ ɥʇᴉʍ sǝoɟ ɹnoʎ ǝʇᴉɯS",
+
+  "item.nitros_twinblades.void_master_twinblade": "ǝpɐꞁquᴉʍ⟘ s,ɹǝʇsɐW pᴉoɅ",
+  "tooltip.nitros_twinblades.void_master_sword": "The power of the Void Master",
+  "item.nitros_twinblades.harbinger_twinblade": "ǝpɐꞁquᴉʍ⟘ s,ɹǝᵷuᴉqɹɐH",
+  "tooltip.nitros_twinblades.harbinger_sword": "The power of the Harbinger",
+  "item.nitros_twinblades.crab_master_twinblade": "ǝpɐꞁquᴉʍ⟘ s,ɹǝʇsɐW qɐɹƆ,",
+  "tooltip.nitros_twinblades.crab_master_sword": "The power of the Crab Master"
+}
