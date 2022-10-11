@@ -16,12 +16,12 @@ import java.util.List;
 
 public class VenomousSwordItem extends SwordItem {
     public VenomousSwordItem() {
-        super(Tiers.NETHERITE, 3, -2.4F, new Item.Properties().fireResistant().rarity(Rarity.create("venomous", ChatFormatting.DARK_GREEN)).stacksTo(1).tab(CreativeModeTab.TAB_COMBAT));
+        super(Tiers.NETHERITE, 3, -2.4F, new Item.Properties().fireResistant().rarity(Rarity.create("venomous", ChatFormatting.GREEN)).stacksTo(1).tab(CreativeModeTab.TAB_COMBAT));
     }
 
     @Override
     public void appendHoverText(@NotNull ItemStack stack, @Nullable Level level, List<Component> components, @NotNull TooltipFlag flag) {
-        components.add(Component.translatable("tooltip.nitros_twinblades.venomous_sword").withStyle(ChatFormatting.DARK_GREEN));
+        components.add(Component.translatable("tooltip.nitros_twinblades.venomous_sword").withStyle(ChatFormatting.GREEN));
         super.appendHoverText(stack, level, components, flag);
     }
 
