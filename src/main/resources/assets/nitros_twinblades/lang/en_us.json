@@ -20,12 +20,11 @@
   "death.attack.frostbite": "%1$s turned into a popsicle",
   "death.attack.frostbite.player": "%1$s was turned into a popsicle by %2$s",
   "item.nitros_twinblades.venomous_twinblade": "Venomous Twinblade",
-  "tooltip.nitros_twinblades.venomous_sword": "More toxic then the deadliest of poisons",
+  "tooltip.nitros_twinblades.venomous_sword": "More toxic than the deadliest of poisons",
   "death.attack.venom": "%1$s was poisoned",
   "death.attack.venom.player": "%1$s was poisoned by %2$s",
   "item.nitros_twinblades.lightning_twinblade": "Lightning Twinblade",
   "tooltip.nitros_twinblades.lightning_sword": "Smite your foes with the power of the heavens",
-
   "item.nitros_twinblades.harbinger_twinblade": "Terra Blade",
   "tooltip.nitros_twinblades.harbinger_sword": "Bend the ground itself to your will",
 
