@@ -13,16 +13,10 @@
 
   "item.nitros_twinblades.infernal_twinblade": "Infernal Twinblade",
   "tooltip.nitros_twinblades.infernal_sword": "Burns bright like the flames of the Nether",
-  "death.attack.hellFire": "%1$s was bathed in unholy fire",
-  "death.attack.hellFire.player": "%1$s was bathed in unholy fire by %2$s",
   "item.nitros_twinblades.frigid_twinblade": "Frigid Twinblade",
   "tooltip.nitros_twinblades.frigid_sword": "Colder than the highest mountaintops",
-  "death.attack.frostbite": "%1$s turned into a popsicle",
-  "death.attack.frostbite.player": "%1$s was turned into a popsicle by %2$s",
   "item.nitros_twinblades.venomous_twinblade": "Venomous Twinblade",
   "tooltip.nitros_twinblades.venomous_sword": "More toxic than the deadliest of poisons",
-  "death.attack.venom": "%1$s was poisoned",
-  "death.attack.venom.player": "%1$s was poisoned by %2$s",
   "item.nitros_twinblades.lightning_twinblade": "Lightning Twinblade",
   "tooltip.nitros_twinblades.lightning_sword": "Smite your foes with the power of the heavens",
   "item.nitros_twinblades.harbinger_twinblade": "Terra Blade",
@@ -32,7 +26,6 @@
 
   "item.nitros_twinblades.crab_master_twinblade": "Crab Master's Twinblade",
   "tooltip.nitros_twinblades.crab_master_sword": "The power of the Crab Master",
-
 
   "item.nitros_twinblades.void_master_twinblade": "Void Master's Twinblade",
   "tooltip.nitros_twinblades.void_master_sword": "The power of the Void Master"
