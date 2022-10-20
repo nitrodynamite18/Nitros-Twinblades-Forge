@@ -18,15 +18,11 @@
   "item.nitros_twinblades.venomous_twinblade": "Venomous Twinblade",
   "tooltip.nitros_twinblades.venomous_sword": "More toxic than the deadliest of poisons",
   "item.nitros_twinblades.lightning_twinblade": "Lightning Twinblade",
-  "tooltip.nitros_twinblades.lightning_sword": "Smite your foes with the power of the heavens",
-  "item.nitros_twinblades.harbinger_twinblade": "Terra Blade",
-  "tooltip.nitros_twinblades.harbinger_sword": "Bend the ground itself to your will",
-
-  "comment": "Sairako's Twinblade",
-
-  "item.nitros_twinblades.crab_master_twinblade": "Crab Master's Twinblade",
-  "tooltip.nitros_twinblades.crab_master_sword": "The power of the Crab Master",
-
+  "tooltip.nitros_twinblades.lightning_sword": "Smites your foes with the power of the heavens",
+  "item.nitros_twinblades.terra_blade": "Terra Blade",
+  "tooltip.nitros_twinblades.terra_blade": "Bends the ground itself to your will",
+  "item.nitros_twinblades.crab_claw_twinblade": "Crab Claw Twinblade",
+  "tooltip.nitros_twinblades.crab_claw_sword": "Holds your foes in place with a vice-like grip",
   "item.nitros_twinblades.void_master_twinblade": "Void Master's Twinblade",
-  "tooltip.nitros_twinblades.void_master_sword": "The power of the Void Master"
+  "tooltip.nitros_twinblades.void_master_sword": "Channels the power of the Void to steal your foes' life force"
 }

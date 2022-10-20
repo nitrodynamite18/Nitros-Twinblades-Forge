@@ -17,7 +17,7 @@ import java.util.List;
 
 public class LightningSwordItem extends SwordItem {
     public LightningSwordItem() {
-        super(Tiers.NETHERITE, 3, -2.4f, new Item.Properties().fireResistant().rarity(Rarity.create("lightning", ChatFormatting.YELLOW)).stacksTo(1).fireResistant().tab(CreativeModeTab.TAB_COMBAT));
+        super(Tiers.NETHERITE, 3, -2.4f, new Item.Properties().fireResistant().rarity(Rarity.create("lightning", ChatFormatting.YELLOW)).stacksTo(1).tab(CreativeModeTab.TAB_COMBAT));
     }
 
     @Override

@@ -1,10 +1,7 @@
 package com.kyanite.nitro.nitros_twinblades.registry.items;
 
 import com.kyanite.nitro.nitros_twinblades.NitrosTwinblades;
-import com.kyanite.nitro.nitros_twinblades.registry.items.custom.FrigidSwordItem;
-import com.kyanite.nitro.nitros_twinblades.registry.items.custom.InfernalSwordItem;
-import com.kyanite.nitro.nitros_twinblades.registry.items.custom.LightningSwordItem;
-import com.kyanite.nitro.nitros_twinblades.registry.items.custom.VenomousSwordItem;
+import com.kyanite.nitro.nitros_twinblades.registry.items.custom.*;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SwordItem;
@@ -28,13 +25,16 @@ public class NTItems {
     // Modded materials
 
 
-    // Loot chest exclusive
+    // Special
     public static final RegistryObject<InfernalSwordItem> INFERNAL_TWINBLADE = ITEMS.register("infernal_twinblade", InfernalSwordItem::new);
     public static final RegistryObject<FrigidSwordItem> FRIGID_TWINBLADE = ITEMS.register("frigid_twinblade", FrigidSwordItem::new);
     public static final RegistryObject<VenomousSwordItem> VENOMOUS_TWINBLADE = ITEMS.register("venomous_twinblade", VenomousSwordItem::new);
     public static final RegistryObject<LightningSwordItem> LIGHTNING_TWINBLADE = ITEMS.register("lightning_twinblade", LightningSwordItem::new);
+    public static final RegistryObject<TerraBladeItem> TERRA_BLADE = ITEMS.register("terra_blade", TerraBladeItem::new);
+    // public static final RegistryObject<ClawSwordItem> CRAB_CLAW_TWINBLADE = ITEMS.register("crab_claw_twinblade", ClawSwordItem::new);
+    // public static final RegistryObject<VoidSwordItem> VOID_MASTER_TWINBLADE = ITEMS.register("void_master_twinblade", VoidSwordItem::new);
 
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
+    public static void register(IEventBus bus) {
+        ITEMS.register(bus);
     }
 }
