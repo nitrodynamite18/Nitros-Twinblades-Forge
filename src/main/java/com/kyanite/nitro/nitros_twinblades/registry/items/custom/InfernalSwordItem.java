@@ -2,7 +2,6 @@ package com.kyanite.nitro.nitros_twinblades.registry.items.custom;
 
 import net.minecraft.ChatFormatting;
 import net.minecraft.network.chat.Component;
-import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.*;
@@ -24,9 +23,9 @@ public class InfernalSwordItem extends SwordItem {
     }
 
     @Override
-    public boolean hurtEnemy(ItemStack p_43278_, LivingEntity target, @NotNull LivingEntity attacker) {
-        p_43278_.hurtAndBreak(1, attacker, (p_43296_) -> p_43296_.broadcastBreakEvent(EquipmentSlot.MAINHAND));
-        target.hurt(new DamageSource("hellFire").bypassMagic().setIsFire(), 2.0F);
+    public boolean hurtEnemy(ItemStack stack, LivingEntity target, @NotNull LivingEntity attacker) {
+        stack.hurtAndBreak(1, attacker, (p_43296_) -> p_43296_.broadcastBreakEvent(EquipmentSlot.MAINHAND));
+        target.lavaHurt();
         return true;
     }
 }

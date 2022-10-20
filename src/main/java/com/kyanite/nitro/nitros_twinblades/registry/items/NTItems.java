@@ -28,13 +28,13 @@ public class NTItems {
     // Modded materials
 
 
-    // Loot chest exclusive
+    // Special
     public static final RegistryObject<InfernalSwordItem> INFERNAL_TWINBLADE = ITEMS.register("infernal_twinblade", InfernalSwordItem::new);
     public static final RegistryObject<FrigidSwordItem> FRIGID_TWINBLADE = ITEMS.register("frigid_twinblade", FrigidSwordItem::new);
     public static final RegistryObject<VenomousSwordItem> VENOMOUS_TWINBLADE = ITEMS.register("venomous_twinblade", VenomousSwordItem::new);
     public static final RegistryObject<LightningSwordItem> LIGHTNING_TWINBLADE = ITEMS.register("lightning_twinblade", LightningSwordItem::new);
 
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
+    public static void register(IEventBus bus) {
+        ITEMS.register(bus);
     }
 }

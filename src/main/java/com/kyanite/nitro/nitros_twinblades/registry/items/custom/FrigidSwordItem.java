@@ -26,7 +26,7 @@ public class FrigidSwordItem extends SwordItem {
     @Override
     public boolean hurtEnemy(ItemStack stack, LivingEntity target, @NotNull LivingEntity attacker) {
         stack.hurtAndBreak(1, attacker, (p_43296_) -> p_43296_.broadcastBreakEvent(EquipmentSlot.MAINHAND));
-        target.hurt(new DamageSource("frostbite").bypassMagic(), 2.0F);
+        target.hurt(DamageSource.FREEZE, 8.0f);
         return true;
     }
 }
