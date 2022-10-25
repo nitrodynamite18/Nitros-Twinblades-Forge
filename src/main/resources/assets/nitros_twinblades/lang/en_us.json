@@ -22,7 +22,7 @@
   "item.nitros_twinblades.terra_blade": "Terra Blade",
   "tooltip.nitros_twinblades.terra_blade": "Bends the ground itself to your will",
   "item.nitros_twinblades.crab_claw_twinblade": "Crab Claw Twinblade",
-  "tooltip.nitros_twinblades.crab_claw_sword": "Holds your foes in place with a vice-like grip",
+  "tooltip.nitros_twinblades.claw_sword": "Holds your foes in place with a vice-like grip",
   "item.nitros_twinblades.void_master_twinblade": "Void Master's Twinblade",
-  "tooltip.nitros_twinblades.void_master_sword": "Channels the power of the Void to steal your foes' life force"
+  "tooltip.nitros_twinblades.void_sword": "Channels the power of the Void to steal your foes' life force"
 }

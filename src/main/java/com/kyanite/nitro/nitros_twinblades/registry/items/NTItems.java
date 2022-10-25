@@ -31,7 +31,7 @@ public class NTItems {
     public static final RegistryObject<VenomousSwordItem> VENOMOUS_TWINBLADE = ITEMS.register("venomous_twinblade", VenomousSwordItem::new);
     public static final RegistryObject<LightningSwordItem> LIGHTNING_TWINBLADE = ITEMS.register("lightning_twinblade", LightningSwordItem::new);
     public static final RegistryObject<TerraBladeItem> TERRA_BLADE = ITEMS.register("terra_blade", TerraBladeItem::new);
-    // public static final RegistryObject<ClawSwordItem> CRAB_CLAW_TWINBLADE = ITEMS.register("crab_claw_twinblade", ClawSwordItem::new);
+    public static final RegistryObject<ClawSwordItem> CRAB_CLAW_TWINBLADE = ITEMS.register("crab_claw_twinblade", ClawSwordItem::new);
     // public static final RegistryObject<VoidSwordItem> VOID_MASTER_TWINBLADE = ITEMS.register("void_master_twinblade", VoidSwordItem::new);
 
     public static void register(IEventBus bus) {
